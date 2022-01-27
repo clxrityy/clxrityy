@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
+# yo it's clxrity here
 
-<p1 style="font-family:Trebuchet MS;text-align:left;font-size:125%;"><b>stuff i guess</b></p1>
-
-
-<p2 style="font-family:Trebuchet MS;text-align:left;font-size:100%;">
-<b>&#8594;</b> discord: <b>clarity#0001</b>
-<br>
-  <b>&#8594;</b> <i>more later maybe</i>
-  </p2>
-
-</body>
-</html>
+<a href="https://twitter.com/yourclxrity" title="@yourclxrity"><img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="28" height="26" aria-hidden="true"></a> <a href="https://instagram.com/mjxnglin" title="@mjxnglin"><img src="https://icon-library.com/images/instagram-circle-icon-png/instagram-circle-icon-png-4.jpg" width="28" height="26" aria-hidden="true"></a> <a href="https://soundcloud.com/clxrityy" title="@clxrityy"><img src="https://www.shareicon.net/data/512x512/2016/11/22/855116_music_512x512.png" width="28" height="26" aria-hidden="true"></a> <a href="https://open.spotify.com/user/mjanglin" title="@mjanglin"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/spotify-512.png" width="28" height="26" aria-hidden="true"></a> 
