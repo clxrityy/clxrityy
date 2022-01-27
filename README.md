@@ -8,7 +8,9 @@
 
 
 <b>&#8594;</b> https://clxrity.xyz 
+<br>
 <b>&#8594;</b> discord: <b>clarity#0001</b>
+<br>
   <b>&#8594;</b> <i>will add more</i>
 
 
