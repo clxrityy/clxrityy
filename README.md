@@ -7,12 +7,9 @@
 
 
 
-<pre style="color:#29354b;text-align:left;font-size:100%;">
-<b>&#8594;</b> twitter: 
-<b>&#8594;</b> instagram:
-<b>&#8594;</b> soundcloud: 
+<b>&#8594;</b> https://clxrity.xyz 
 <b>&#8594;</b> discord: <b>clarity#0001</b>
-</pre>
+  <b>&#8594;</b> <i>will add more</i>
 
 
 </body>
