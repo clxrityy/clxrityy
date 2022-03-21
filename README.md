@@ -20,4 +20,9 @@ MacBook Air (Retina, 13-inch, 2020) <div>
 8 GB 3733 MHz LPDDR4X <div>
 Intel Iris Plus Graphics 1536 MB
 <div>
+###### Audio hardware
+- **Interface:** Scarlett 2i2 Focusrite
+- **Amplifier:** Fosi Audio BT20A
+- **Microphone:** Audio Technica AT2020
+- **Speakers:** Klipsch R-51M
 <img align='bottom' src='https://imgur.com/XTJgAvK.gif'>
