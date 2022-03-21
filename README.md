@@ -12,7 +12,7 @@ NViDIA® GeForce GTX1060 6GB <div>
 HDD 1TB | SSD 512GB
 <div>
 <div>
-<h3>💻 macOS</h2><div>
+<h3><a><img src="https://imgur.com/RLAWhYo.png" width="24" height="22" aria-hidden="true"></a> macOS</h2><div>
 <div>
 MacBook Air (Retina, 13-inch, 2020) <div>
 1.1 GHz Dual-Core Intel Core i3 <div>
