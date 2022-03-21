@@ -6,7 +6,7 @@
 ---
 ## Computer Specs
 
-<h1>ASUS</h1><div>
+<h2>ASUS</h2><div>
 Intel® Core™ i5-6400 <div>
 DDR4 16G <div>
 NViDIA® GeForce GTX1060 6GB <div>
