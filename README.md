@@ -6,14 +6,14 @@
 ---
 ## Computer Specs
 
-<h>ASUS</h><div>
+<h1>ASUS</h1><div>
 Intel® Core™ i5-6400 <div>
 DDR4 16G <div>
 NViDIA® GeForce GTX1060 6GB <div>
 HDD 1TB | SSD 512GB
 <div>
 <div>
-<h>macOS</h><div>
+<h2>macOS</h2><div>
 <div>
 MacBook Air (Retina, 13-inch, 2020) <div>
 1.1 GHz Dual-Core Intel Core i3 <div>
