@@ -4,14 +4,14 @@
 ---
 <a title="clarity&#35;0001"><img src="https://imgur.com/Lf8uBi8.png" width="22" height="18" aria-hidden="true"></a> Discord: `clarity#0001`
 ---
-<h2>ASUS 🖥️</h2><div>
+<h2>🖥️ ASUS</h2><div>
 Intel® Core™ i5-6400 <div>
 DDR4 16G <div>
 NViDIA® GeForce GTX1060 6GB <div>
 HDD 1TB | SSD 512GB
 <div>
 <div>
-<h2>macOS 💻</h2><div>
+<h2>💻 macOS</h2><div>
 <div>
 MacBook Air (Retina, 13-inch, 2020) <div>
 1.1 GHz Dual-Core Intel Core i3 <div>
