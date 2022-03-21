@@ -5,7 +5,7 @@
 ---
 <a title="clarity&#35;0001"><img src="https://imgur.com/Lf8uBi8.png" width="20" height="18" aria-hidden="true"></a> Discord: `clarity#0001`
 ---
-<h3><a><img src="https://imgur.com/nLYB3Up.png" width="28" height="26" aria-hidden="true"></a> ASUS</h2><div>
+<h3><a><img src="https://imgur.com/nLYB3Up.png" width="24" height="22" aria-hidden="true"></a> ASUS</h2><div>
 Intel® Core™ i5-6400 <div>
 DDR4 16G <div>
 NViDIA® GeForce GTX1060 6GB <div>
