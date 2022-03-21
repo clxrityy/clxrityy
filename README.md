@@ -5,15 +5,15 @@
 <a title="clarity&#35;0001"><img src="https://imgur.com/Lf8uBi8.png" width="22" height="18" aria-hidden="true"></a> Discord: `clarity#0001`
 ---
 ### Computer Specs
-  <b>ASUS</b>
-<div>
+**ASUS**
 Intel® Core™ i5-6400
 DDR4 16G
 NViDIA® GeForce GTX1060 6GB
 HDD 1TB | SSD 512GB
 <div>
-  <b>macOS</b>
 <div>
+**macOS**
+
 MacBook Air (Retina, 13-inch, 2020)
 1.1 GHz Dual-Core Intel Core i3
 8 GB 3733 MHz LPDDR4X
