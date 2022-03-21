@@ -19,5 +19,4 @@ MacBook Air (Retina, 13-inch, 2020) <div>
 8 GB 3733 MHz LPDDR4X <div>
 Intel Iris Plus Graphics 1536 MB
 <div>
----
 <img align='bottom' src='https://imgur.com/XTJgAvK.gif'>
