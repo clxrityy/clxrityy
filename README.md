@@ -21,8 +21,8 @@ MacBook Air (Retina, 13-inch, 2020) <div>
 Intel Iris Plus Graphics 1536 MB
 <div>
   <h3>Audio hardware</h3>
-- **Interface:** Scarlett 2i2 Focusrite<div>
-- **Amplifier:** Fosi Audio BT20A<div>
-- **Microphone:** Audio Technica AT2020<div>
-- **Speakers:** Klipsch R-51M<div>
+  - <b>Interface:</b> Scarlett 2i2 Focusrite<div>
+  - <b>Amplifier:</b> Fosi Audio BT20A<div>
+  - <b>Microphone:</b> Audio Technica AT2020<div>
+  - <b>Speakers:</b> Klipsch R-51M<div>
 <img align='bottom' src='https://imgur.com/XTJgAvK.gif'>
