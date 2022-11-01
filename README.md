@@ -8,7 +8,7 @@
 <img align='center' src='https://imgur.com/XTJgAvK.gif'>
 <h3><img src="https://imgur.com/nLYB3Up.png" width="24" height="22" aria-hidden="true"> ASUS</h2><div>
 Intel® Core™ i5-6400 <div>
-DDR4 16G <div>
+DDR4 64GB <div>
 NViDIA® GeForce GTX1060 6GB <div>
 HDD 1TB | SSD 512GB
 <div>
