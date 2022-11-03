@@ -19,9 +19,4 @@ MacBook Air (Retina, 13-inch, 2020) <div>
 1.1 GHz Dual-Core Intel Core i3 <div>
 8 GB 3733 MHz LPDDR4X <div>
 Intel Iris Plus Graphics 1536 MB
-<div>
-  <h3><img src="https://imgur.com/J8iL9Cp.png" width="24" height="22" aria-hidden="true"> Lenovo</h3><div>
-11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz 2.42 GHz<div>
-RAM: 32 GB
-<div>
 <img align='bottom' src='https://imgur.com/XTJgAvK.gif'>
