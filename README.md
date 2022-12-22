@@ -12,4 +12,14 @@
       </a>
     </span>
   </h1>
+  <div id='code-icons'>
+	  <span>
+		  <img src='./images/icons/javascript.png' width='15px' height='15px' />
+		  <img src='./images/icons/python.png' width='15px' height='15px' />
+		  <img src='./images/icons/java.png' width='15px' height='15px' />
+		  <img src='./images/icons/html.png' width='15px' height='15px' />
+		  <img src='./images/icons/css.png' width='15px' height='15px' />
+		  <img src='./images/icons/cpp.png' width='15px' height='15px' />
+	  </span>
+  </div>
 </div>
