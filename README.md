@@ -3,7 +3,7 @@
 width="750px" height="100px" />
 </div>
 <div id='body'>
-### just for fun
-##### 🔗 [clxrity.xyz](https://clxrity.xyz)
+### just for fun <br />
+##### 🔗 [clxrity.xyz](https://clxrity.xyz) <br />
 <img src='https://media.discordapp.net/attachments/939974049361190912/982157090682449940/green_ish_pixel_fountain_art.gif' align='right' />
 </div>
