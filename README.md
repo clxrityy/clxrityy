@@ -34,4 +34,9 @@
 			<img src='./images/icons/cpp.png' width='25px' height='25px' />
 		</span>
 	</div>
+	<div id='end'>
+		<hr width='100px' />
+		<hr width='100px' />
+		<hr width='100px' />
+	</div>
 </div>
