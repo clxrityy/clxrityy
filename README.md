@@ -18,6 +18,7 @@
 			<img src='./images/icons/html.png' width='25px' height='25px' />
 			<img src='./images/icons/css.png' width='25px' height='25px' />
 			<img src='./images/icons/cpp.png' width='25px' height='25px' />
+			<hr />
 		</span>
 	</div>
 </div>
