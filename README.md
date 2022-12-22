@@ -18,7 +18,14 @@
 			<img src='./images/icons/html.png' width='25px' height='25px' />
 			<img src='./images/icons/css.png' width='25px' height='25px' />
 			<img src='./images/icons/cpp.png' width='25px' height='25px' />
-			<hr width='100px' />
+		</span>
+	</div>
+	<div id='info'>
+		<span>
+			<p>
+				<hr width='100px' />
+				MJ Anglin
+			</p>
 		</span>
 	</div>
 </div>
