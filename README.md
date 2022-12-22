@@ -12,13 +12,13 @@
 	</h1>
 	<div id='info'>
 		<span>
-			<p>
+			<h2>
 				<hr width='100px' />
 				<span>
-					<img src='./images/arrow-right.gif' width='45px' height='25px' />
+					<img src='./images/arrow-right.gif' width='35px' height='25px' />
 					MJ Anglin | 21 | she/her
 				</span>
-			</p>
+			</h2>
 		</span>
 	</div>
 	<div id='code-icons'>
