@@ -21,10 +21,11 @@
 		</span>
 	</div>
 	<div>
-		<code>
-			name: MJ Anglin
-			age: 21
-			alias: clxrity
-		</code>
+		```yaml
+		name: mj anglin
+		age: 21
+		location: USA
+		alias: clxrity
+		```
 	</div>
 </div>
