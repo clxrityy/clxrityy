@@ -6,4 +6,9 @@ width="750px" height="100px" />
 <div id='body'>
   <img src='https://media.discordapp.net/attachments/939974049361190912/982157090682449940/green_ish_pixel_fountain_art.gif' align='right' />
   <h1>just for fun 🌱</h1>
+  <h3>
+    <a href='https://clxrity.xyz' target='_blank'>
+      clxrity.xyz
+    </a>
+  </h3>
 </div>
