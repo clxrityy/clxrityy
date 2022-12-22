@@ -20,12 +20,4 @@
 			<img src='./images/icons/cpp.png' width='25px' height='25px' />
 		</span>
 	</div>
-	<div>
-		```yaml
-		name: mj anglin
-		age: 21
-		location: USA
-		alias: clxrity
-		```
-	</div>
 </div>
