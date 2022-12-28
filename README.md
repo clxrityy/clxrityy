@@ -23,9 +23,6 @@
 	</div>
 	<div id='code-icons'>
 		<span>
-			<h3>
-				my favorites:
-			</h3>
 			<img src='./images/icons/javascript.png' width='25px' height='25px' />
 			<img src='./images/icons/python.png' width='25px' height='25px' />
 			<img src='./images/icons/java.png' width='25px' height='25px' />
