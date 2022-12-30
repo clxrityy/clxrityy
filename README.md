@@ -15,8 +15,7 @@
 			<h2>
 				<hr width='100px' />
 				<span>
-					<img src='./images/arrow-right.gif' width='35px' height='25px' />
-					MJ Anglin | 21 | she/her
+					MJ Anglin
 				</span>
 			</h2>
 		</span>
