@@ -20,15 +20,8 @@
 			</h2>
 		</span>
 	</div>
-	<div id='code-icons'>
-		<span>
-			<img src='./images/icons/javascript.png' width='25px' height='25px' />
-			<img src='./images/icons/python.png' width='25px' height='25px' />
-			<img src='./images/icons/java.png' width='25px' height='25px' />
-			<img src='./images/icons/html.png' width='25px' height='25px' />
-			<img src='./images/icons/css.png' width='25px' height='25px' />
-			<img src='./images/icons/cpp.png' width='25px' height='25px' />
-		</span>
+	<div id='desc'>
+		<h3>web stuff</h3>
 	</div>
 	<div id='end'>
 		<hr width='100px' />
