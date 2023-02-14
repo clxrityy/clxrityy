@@ -7,7 +7,7 @@
 	</div>
 	<h1>
 		<span>
-			just for fun <img src='./images/potted_plant.gif' width='25px' height='25px' /> — <a href='https://clxrity.xyz' target='_blank'>clxrity.xyz</a>
+			just for fun <img src='./images/potted_plant.gif' width='25px' height='25px' /> — <a href='https://mjanglin.com' target='_blank'>mjanglin.com</a>
 		</span>
 	</h1>
 	<div id='info'>
