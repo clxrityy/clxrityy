@@ -1,3 +1,4 @@
+<head>
 <style>
 	.main {
 		display: flex;
@@ -38,7 +39,8 @@
 		gap: 1px;
 	}
 </style>
-
+</head>
+<body>
 <div class="main">
 	<div class="banner-container">
 		<img class="banner" src="./img/clxrity_banner.png" />
@@ -76,4 +78,6 @@
 			<img src="./img/clxrity_fountain.gif" width="250px" />
 		</div>
 	</div>
+	<img src="./img/waveform.gif" class="footer" />
 </div>
+</body>
