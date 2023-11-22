@@ -1,22 +1,8 @@
-<style>
-    .title {
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-        gap: 10px;
-    }
-    .main-container {
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-        justify-content: space-between;
-    }
-</style>
 <div class="main">
     <img src="./img/clxrity_banner.png" />
-    <div class="main-container">
+    <div class="main-container" style="display:flex;flex-direction:row;align-items:start;justify-content:space-between;">
         <div class="right">
-            <div class="title">
+            <div class="title" style="display:flex;flex-direction:row;align-items:center;gap:10px;">
                 <h1>clxrity</h1>
                 <img src="./img/potted_plant.gif" width="37.5px" />
             </div>
@@ -35,16 +21,30 @@
                         these are my fun projects that primarily concern web frameworks, music, and AI.
                     </blockquote>
                 </h7>
+                <br />
+                <br ?>
+                <h5>
+                    i also make music
+                </h5>
+                <div class="music" style="display:flex;flex-direction:row;gap:12px;align-items:center;">
+                    <a href="https://open.spotify.com/artist/0HaFO6TLXEZ2De3d67dThV">
+                        <img src="./img/spotify.png" width="50px" />
+                    </a>
+                    <a href="https://soundcloud.com/clxrityy">
+                        <img src="./img/soundcloud.png" width="50px" />
+                     </a>
+                 </div>
             </div>
         </div>
         <div class="left">
             <hr />
             <img src="./img/clxrity_fountain.gif" />
             <hr />
+            <a href="mailto:contact@mjanglin.com">
+                <h3>
+                    contact@mjanglin.com
+                </h3>
+            </a>
         </div>
     </div>
-    <h5>
-        i also make music
-    </h5>
-     <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/0HaFO6TLXEZ2De3d67dThV?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
