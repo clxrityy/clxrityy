@@ -1,6 +1,6 @@
 <div>
     <div>
-        <h1 style="display:flex; justify-content:space-between; align-items:center;">
+        <h1 style="display:flex; justify-content:space-between; align-items:center;width:100%;">
             <span>
                 clxrity <img src="./img/potted_plant.gif" width="20" />
             </span>
