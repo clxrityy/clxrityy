@@ -1,4 +1,11 @@
-<div style="position:relative;text-align:center;">
-    <h1 class="centered" style="width:100%;box-shadow: 3px 4px 5px gray;position:absolute;top:0%;left:50%;transform:translate(-50%, -65%);">clxrity <img src="img/potted_plant.gif" style="width:20px;" /></h1>
-    <img src="img/clxrity_banner.png" />
+<div>
+    <div>
+        <h1 style="display:flex; justify-content:space-between; align-items:center;">
+            <span>
+                clxrity <img src="./img/potted_plant.gif" width="20" />
+            </span>
+            <img src="./img/keyboard.svg" width="25%" />
+        </h1>
+    </div>
+        
 </div>
