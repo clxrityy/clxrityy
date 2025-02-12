@@ -10,18 +10,35 @@
                 - [🌐] https://mjanglin.com
                 - [📧] contact@mjanglin.com
 
+
+                                            tech & music enthusiast
+
 info:
     - [📜] License: MIT
     - [📅] Last Updated: 2025-02-12
     - [🛠️] Version: 3.1.0
 ```
 
-### having fun while i learn <img src="./img/potted_plant.gif" width="18" height="18" />
-
 <img src="./img/keyboard.svg" width="35%" />
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clxrityy&show_icons=true&theme=onedark)
+#### GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clxrityy&layout=pie&theme=onedark)](https://github.com/clxrityy/github-readme-stats)
+| Stats | Lang |
+|:-------------------------:|:-------------------------:|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clxrityy&show_icons=true&theme=onedark) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clxrityy&layout=pie&theme=onedark)](https://github.com/clxrityy/github-readme-stats) |
+
+
+---
+
+#### Spotify
+
+| Currently Playing | Artist Profile | Personal Playlists |
+|:-------------------------:|:-------------------------:| :-------------------------:|
+| [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mjanglin&cover_image=true&theme=default&show_offline=false&background_color=2b3d4f&interchange=false&bar_color=5e9a93)](https://open.spotify.com/artist/0HaFO6TLXEZ2De3d67dThV) | <a target="_blank" href="https://open.spotify.com/artist/0HaFO6TLXEZ2De3d67dThV"><img src="./img/clxrity.jpg" alt="clxrity spotify" width="65%" style="border-radius:15px;"/></a> | [![Image from Gyazo](https://i.gyazo.com/0531d7d36cdec302787f04972d989062.jpg)](https://open.spotify.com/user/mjanglin/playlists) |
+
+
+---
+
+### having fun while i learn <img src="./img/potted_plant.gif" width="18" height="18" />
