@@ -14,7 +14,7 @@
                                             tech & music enthusiast
 
 info:
-    - [📜] License: MIT
+    - [📜] License: Apache 2.0
     - [📅] Last Updated: 2025-02-12
     - [🛠️] Version: 3.1.0
 ```
