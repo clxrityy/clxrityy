@@ -22,6 +22,6 @@ info:
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clxrityy&show_icons=true&theme=onedark)]
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clxrityy&show_icons=true&theme=onedark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clxrityy&layout=pie&theme=onedark)](https://github.com/clxrityy/github-readme-stats)
