@@ -1,44 +1,45 @@
-
-
 ```yaml
- ______     __         __  __     ______     __     ______   __  __
-/\  ___\   /\ \       /\_\_\_\   /\  == \   /\ \   /\__  _\ /\ \_\ \
-\ \ \____  \ \ \____  \/_/\_\/_  \ \  __<   \ \ \  \/_/\ \/ \ \____ \
- \ \_____\  \ \_____\   /\_\/\_\  \ \_\ \_\  \ \_\    \ \_\  \/\_____\
-  \/_____/   \/_____/   \/_/\/_/   \/_/ /_/   \/_/     \/_/   \/_____/
+//    ____ _    _  _ ____ _ ___ _   _
+//    |    |     \/  |__/ |  |   \_/
+//    |___ |___ _/\_ |  \ |  |    |
 
-                - [🌐] https://mjanglin.com
-                - [📧] contact@mjanglin.com
+                                    README:
+                                        - License: Apache 2.0
+                                        - Last Updated: 2025-03-02
+                                        - Version: 3.4.2
+                                        - Site: https://mjanglin.com
+                                        - Email: contact@mjanglin.com
 
+ /           -   developer ⧉       /      
+ /           -   producer ♫        /     
 
-                                            tech & music enthusiast
-
-info:
-    - [📜] License: Apache 2.0
-    - [📅] Last Updated: 2025-02-12
-    - [🛠️] Version: 3.1.0
 ```
 
-<div style="text-align:center;display:flex;justify-content:space-around;align-items:center;justify-self:stretch;">
-    <img src="./img/keyboard.svg" width="35%" /> 
-    <h2> having fun while i learn <img src="./img/potted_plant.gif" width="18" height="18" /> </h2>
-</div>
 
-<img src="./img/clxrity_banner.png" width="100%" style="opacity:40%" /> 
+<h2>
+    code, create, cultivate
+    <img src="./img/potted_plant.gif" width="18" height="20" /> 
+</h2>
+
+##### `@` Socials
+
+[![LinkedIn (@mjanglin1)](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mjanglin1/) [![Instagram (@mjxnglin)](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mjxnglin) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kwYjW9AVAC)
+
+##### `♪` Music 
+
+[![Spotify (@clxrity)](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/0HaFO6TLXEZ2De3d67dThV?trackId=7bcTsIZUFBLSX3sLI589wn)  [![SoundCloud (@clxrityy)](https://img.shields.io/badge/soundcloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/clxrityy)	[![YouTube (@clxrity_)](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+](https://www.youtube.com/@clxrity_)
 
 ---
 
-#### GitHub
-
-| Stats | Lang |
-|:-------------------------:|:-------------------------:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clxrityy&show_icons=true&theme=onedark) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clxrityy&layout=pie&theme=onedark)](https://github.com/clxrityy/github-readme-stats) |
-
-
----
-
-#### Spotify
-
-| Recently Played | Artist Profile | Personal Playlists |
-|:-------------------------:|:-------------------------:| :-------------------------:|
-| [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mjanglin&cover_image=true&theme=default&show_offline=false&background_color=2b3d4f&interchange=false&bar_color=5e9a93)](https://open.spotify.com/artist/0HaFO6TLXEZ2De3d67dThV) | <a target="_blank" href="https://open.spotify.com/artist/0HaFO6TLXEZ2De3d67dThV"><img src="./img/clxrity.jpg" alt="clxrity spotify" width="65%" style="border-radius:15px;"/></a> | [![Image from Gyazo](https://i.gyazo.com/0531d7d36cdec302787f04972d989062.jpg)](https://open.spotify.com/user/mjanglin/playlists) |
+> ```js
+> while (lazy || !inspired) {
+>     try {
+>         await fetch(inspiration);
+>     } catch (error) {
+>         giveUp();
+>     } finally {
+>         tryAgain();
+>     }
+> }
+> ```
