@@ -20,12 +20,6 @@
     <img src="./img/potted_plant.gif" width="18" height="20" /> 
 </h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/breakout-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/breakout-light.svg">
-  <img alt="Breakout Game" src="img/breakout-light.svg">
-</picture>
-
 ##### `@` Socials
 
 [![LinkedIn (@mjanglin1)](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mjanglin1/) [![Instagram (@mjxnglin)](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mjxnglin) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kwYjW9AVAC)
