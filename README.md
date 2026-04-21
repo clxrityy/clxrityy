@@ -1,20 +1,8 @@
-
-<table style="width:100%; border: none;">
-  <tr style="border: none;">
-    <td align="center" valign="top" style="border: none;">
-      <img src="./img/keyboard.svg" width="auto" height="175" alt="clarity logo" />
-    </td>
-    <td align="center" valign="top" style="border: none;">
-      <pre style="margin: 0;">
-        <code lang="ascii">
-____ _    _  _ ____ _ ___ _   _
-|    |     \/  |__/ |  |   \_/
-|___ |___ _/\_ |  \ |  |    |
-        </code>
-      </pre>
-    </td>
-  </tr>
-</table>
+```mdx
+//      ____ _    _  _ ____ _ ___ _   _
+//      |    |     \/  |__/ |  |   \_/
+//      |___ |___ _/\_ |  \ |  |    |
+```
 
 ## developer `/` producer
 
